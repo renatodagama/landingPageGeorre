@@ -124,7 +124,8 @@
 }
 
 a {
-	border: 2px solid rgb(14, 201, 92);
+  font-family: Arial;	
+  border: 2px solid rgb(14, 201, 92);
   padding: 10px;
   border-radius: 15px;
 }
