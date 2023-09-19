@@ -21,7 +21,7 @@
 
 /* ENDEREÇO DO CONTAINER */
 #address-container {
-	background-image: url('/assets/img/georreferenciamento.jpg');
+	background-image: url('assets/img/georreferenciamento.jpg');
 	background-size: cover;
 	background-position-x: -130px;
 	color: #ffffff;
